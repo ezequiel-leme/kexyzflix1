@@ -1,0 +1,24 @@
+body {
+    margin: 0px;
+    font-family: "Libre Baskerville", serif;
+    color: blueviolet;
+    background:black
+
+
+} header {
+border-bottom:solid blueviolet 2 px;
+
+padding: 20px;
+font-size-adjust: 24px 
+}   
+section { background:rgb(25,24,85,0.61);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex   ;
+justify-content: center;
+
+}
+
+.camada-texto{ margin-right: 50%;}
+
+img{height:100px ;}
